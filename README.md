@@ -3,5 +3,5 @@ This is a simple JavaScript code that helps you get the country of the visitor o
 
 ## Usage on a website
 * Copy the <script> part of the [HTML](index.html) and paste it just before the **end of** HEAD tag of your website.
-* Create a DIV element with id=countrycode-container as <div id="countrycode-container"></div> and place it anywhere on the HTML document where you want to show the country code
+* Create a DIV element with id=countrycode-container as &lt;div id=&quot;countrycode-container&quot;&gt;&lt;/div&gt; and place it anywhere on the HTML document where you want to show the country code
 * Great! Now use the script to redirect / hide the content for visitors from some countries.
